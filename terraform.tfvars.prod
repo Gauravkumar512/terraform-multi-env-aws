@@ -1,0 +1,6 @@
+environment                = "prod"
+project_name               = "mse-terraform-lab"
+instance_type               = "t3.small"
+instance_count              = 3
+enable_detailed_monitoring  = true
+allowed_ssh_cidr            = "0.0.0.0/0"
